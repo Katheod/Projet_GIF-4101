@@ -1,0 +1,11 @@
+# Mac
+.DS_Store
+
+# IDE
+.idea/
+
+# Dataset
+data/
+
+# Python virtual environment
+.venv
