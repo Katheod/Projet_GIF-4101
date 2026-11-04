@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # type: ignore[reportMissingModuleSource]
 import numpy as np
 import torch
 import tqdm
